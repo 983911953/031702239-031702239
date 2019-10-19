@@ -5,11 +5,11 @@
 ---
 
 
-插件包：vakata-jstree-c9d7c14
-背景图片：0173e8561b589e32f87557013cf40b.jpg@1280w_1l_2o_100sh.jpg   
-README文档：REAMDE.md
-HTML: index.html
-请将上述的文件统一下载并放入同一文件夹中，以防无法完整显示
+插件包：`vakata-jstree-c9d7c14`<br>
+背景图片：`0173e8561b589e32f87557013cf40b.jpg@1280w_1l_2o_100sh.jpg`  <br>
+README文档：`REAMDE.md`<br>
+HTML: `index.html`<br>
+请将上述的文件统一下载并放入同一文件夹中，以防无法完整显示<br>
 
 网页的使用
 ---
